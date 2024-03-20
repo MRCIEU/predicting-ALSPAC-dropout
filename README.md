@@ -30,7 +30,6 @@ The project repository is broken down into three main components:
 │   └── README.md
 │
 ├── 3-analysis
-│   ├── RData_files
 │   ├── master_scripts
 │   │   ├── run_all_dropout11_clinic.R
 │   │   ├── run_all_dropout11_questionnaire.R
