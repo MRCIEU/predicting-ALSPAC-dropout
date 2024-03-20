@@ -1,5 +1,5 @@
 
-# Predicting study dropout / non participation in ALSPAC
+# Predicting study dropout / non-participation in ALSPAC
 
 ## Project Overview
 The aim of this project is to assess participant dropout rates at age 11 in the Avon Longitudinal Study of Parents and Children (ALSPAC) by employing machine learning and statistical methods. The study's findings support the utility of targeted interventions to enhance retention rates in ALSPAC and potentially other longitudinal studies. A high Pearson correlation of 0.98 between clinic and questionnaire data lends credence to the consistency of these predictors.
@@ -41,10 +41,11 @@ The project repository is broken down into three main components:
 │       ├── rf_dropout11_questionnaire.R
 │       └── rf_dropout17.R
 │
+├── Report.pdf
 └── README.md
 ```
 ## Folder Descriptions
-- 1-data-prep: Contains initial datasets.
+- 1-data-prep: Contains the scripts used for preparing the initial datasets.
 - 2-data-processing: Holds the data processing scripts.
 - 3-analysis: Contains analysis scripts and models.
 
