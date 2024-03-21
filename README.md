@@ -97,8 +97,17 @@ Here's what the shell script run_analysis_dropout_11_clinic.sh is set to do:
 - It runs the R script 3-analysis/master_scripts/run_all_dropout11_clinic.R using Rscript.
 - It timestamps the beginning and end of the run using date.
 
+## Acknowledgements
 
+I would like to express my sincere gratitude to my dissertation supervisors at the University of Bristol:
 
+- Dr. Louise Millard
+- Professor Kate Tilling
+- Dr. Apostolos Gkatzionis
+
+Thank you for your invaluable guidance, support, and expertise throughout the development of this project.
+
+Thank you all for your contributions and encouragement!
 
 
 
