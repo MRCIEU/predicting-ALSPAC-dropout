@@ -13,7 +13,6 @@ The project repository is broken down into three main components:
 ```
 .
 ├── 1-data-prep
-│   └── a-initial-datasets
 │
 ├── 2-data-processing
 │   ├── child_completed
